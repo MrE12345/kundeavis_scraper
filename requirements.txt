@@ -1,0 +1,7 @@
+requests
+beautifulsoup4
+pillow
+pytesseract
+psycopg2-binary
+regex
+python-dateutil
