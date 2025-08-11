@@ -1,6 +1,6 @@
-# Coop Kundeavis Scraper (OCR → Postgres)
+# Kundeavis Scraper (OCR → Postgres)
 
-Dette prosjektet laster ned sidebilder fra en Coop-kundeavis, kjører OCR (Tesseract med norsk), parser ut prislinjer og lagrer funnene i Postgres.
+Dette prosjektet laster ned sidebilder fra en kundeavis, kjører OCR (Tesseract med norsk), parser ut prislinjer og lagrer funnene i Postgres.
 
 ## Rask start
 
